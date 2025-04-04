@@ -7,7 +7,7 @@
 
 ### 1. Navigate to Server Directory
 ```bash
-cd abx_exchange_server
+cd server
 ```
 
 ### 2. Start the Server
@@ -23,7 +23,7 @@ node main.js
 
 ### 4. Navigate to Client Directory
 ```bash
-cd ../abx_exchange_client
+cd ../client
 ```
 
 ### 5. Compile the C++ Client
